@@ -48,3 +48,4 @@ Scatterplots are used to visualize relationships between numerical and categoric
 
 This analysis provides a foundational understanding of the Titanic dataset, uncovering potential relationships and insights that can be further explored and used for predictive modeling or other data-driven tasks.
 
+For more Detailed Information and Analysis, Please refer to the complete report. For any assistance, correction or questions please contact [Dayyabu Abdulrazak](https://www.linkedin.com/in/dayyabu-abdulrazak)
