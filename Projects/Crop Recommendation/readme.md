@@ -46,5 +46,4 @@ To run this analysis, you need Python and the following libraries installed:
 - Matplotlib
 - Seaborn
 
-##Author
-This code was written by [Dayyabu Abdulrazak].
+For more Detailed Information and Analysis, Please refer to the complete report. For any assistance, correction or questions please contact [Dayyabu Abdulrazak](https://www.linkedin.com/in/dayyabu-abdulrazak)
